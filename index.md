@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Introduction
 description: ARL DSI 2021 Workshop
 nav_order: 1
 ---
