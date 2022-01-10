@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "preparation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "1ceb0bbd54b1c5b0",
   "lastOpenFiles": [
+    "preparation.md",
     "index.md",
     "exercise.md",
-    "preparation.md",
     "README.md",
     "learn-more.md"
   ]

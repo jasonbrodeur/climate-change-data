@@ -17,7 +17,7 @@ This lesson will be carried out using [Google Sheets](https://sheets.google.com)
 - Navigate to the Surface Temperature Analysis [data explorer page](https://data.giss.nasa.gov/gistemp/station_data_v4_globe/)
 - Read the documentation of the data at the top of the page
 - Use the data explorer globe to find a station with high-quality data that began collecting data before 1880 and continues to do so today.
-  - Set **From:** ```January 1880```, **To:** ```November 2021```, and **Dataset:** ```GHCN v``` and click **Update**
+  - Set **From:** ```January 1880```, **To:** ```November 2021```, and **Dataset:** ```GHCN V4 adj - homogenized``` and click **Update**
   - Explore the stations that are returned. What do you notice about their distribution? How might the global distribution reflect and perpetuate inequalities?
   - To get to the Detroit Metro Airport station page, either: 
     - Zoom into Detroit on the globe (see figure below), hover over the station marker and click **Generate Plot** in the popup window.
