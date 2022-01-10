@@ -15,7 +15,7 @@ Interested in finding and working with more data? Here are places to look:
 
 ## Data Sources: Government Portals
 #### Federal
-- [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html) | 
+- [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html)
 - [Open Data Canada](https://open.canada.ca/en/open-data)
 - NOAA / [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
 #### Provincial
