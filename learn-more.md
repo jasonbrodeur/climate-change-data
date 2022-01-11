@@ -33,7 +33,7 @@ Interested in finding and working with more data? Here are places to look:
 
 ##  Data Sources: From research projects
 Find relevant data in research data repositories:
-- [Federated](https://www.frdr-dfdr.ca/repo/) [](https://www.frdr-dfdr.ca/repo/) [Research Data Repository](https://www.frdr-dfdr.ca/repo/)(FRDR): Search for Canadian research and government datasets.
+- [Federated Research Data Repository](https://www.frdr-dfdr.ca/repo/) (FRDR): Search for Canadian research and government datasets.
 - [Zenodo](https://zenodo.org/): International research data repository
 - [Dryad](https://datadryad.org/stash): International research data repository focused on environmental data
 - [Re3data.org](https://www.re3data.org/): A registry of research data repositories
